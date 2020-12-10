@@ -1,0 +1,1 @@
+insert into tb_usuario(id, nome, cpf, idade) values (0, 'Gustavo Wagner', '12345694056', 40);
